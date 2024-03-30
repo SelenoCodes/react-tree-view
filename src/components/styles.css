@@ -1,0 +1,24 @@
+.tree__container {
+    padding-top: 2rem;
+    height: 100vh;
+    background-color: #53a5c9;
+    width: 400px;
+    color: #fff;
+
+}
+
+.menu__item {
+
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    list-style: none;
+    cursor: pointer;
+    width: max-content;
+    margin-bottom: 1rem;
+
+}
+
+.menu__list__container {
+    list-style: none;
+}
